@@ -1,0 +1,14 @@
+
+.inter.yes {
+    background-color: black;
+    color: white;
+}
+
+.inter.no {
+    background-color: yellow;
+}
+
+.inter {
+    font-size: 24px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
